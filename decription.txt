@@ -1,0 +1,40 @@
+Title 
+
+Covid 19 Stats Cases Real Time 
+
+Decription
+
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
+
+
+The virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or exhales. 
+These droplets are too heavy to hang in the air, and quickly fall on floors or surfaces.
+
+Features
+
+> Real Time DataBase
+> Update Cases Every 10 Minutes
+> Admob Ad Inserted
+> Youtube Videos Added
+> All Country Cases Updates 
+> Splash Screen
+> Mobile Friendly 
+> Notification Alert
+> Web view Included
+
+
+Tags
+
+android, android app , android studio , app , database , corona virus , covid-19 , corona virus app , corona virus cases
+
+
+Message To the Reviewer 
+
+Hi There,
+
+Let me know if you have any question or if you want to change or update api or modify this app.
+Thankyou I will be very happy to help you 
+
+  
+
