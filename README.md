@@ -13,16 +13,15 @@ These droplets are too heavy to hang in the air, and quickly fall on floors or s
 
 Features
 
-> Real Time DataBase
-> Update Cases Every 10 Minutes
-> Admob Ad Inserted
-> Youtube Videos Added
-> All Country Cases Updates 
-> Splash Screen
-> Mobile Friendly 
-> Notification Alert
-> Web view Included
+ Real Time DataBase
+Update Cases Every 10 Minutes
+Admob Ad Inserted
+Youtube Videos Added
+All Country Cases Updates 
+Splash Screen
+Mobile Friendly 
+Notification Alert
+Web view Included
 
-![](Covid-19-Stats/Inline Preview.png)
 
 
